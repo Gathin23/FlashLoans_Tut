@@ -121,7 +121,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"ArbitrageFlashLoan.sol": "SimpleFlashLoan"
+			"ArbitrageFlashLoan.sol": "ArbitrageFlashLoan"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -136,10 +136,10 @@
 	},
 	"sources": {
 		"ArbitrageFlashLoan.sol": {
-			"keccak256": "0xbd75cccd25ac7191c61434c3b73b56f4d15ca8a210c93f4155445a40e1b869e4",
+			"keccak256": "0x0e97634312759a8f875ee8467ef50ad3270dab49f5f59d4830d7c1f37a7701de",
 			"urls": [
-				"bzz-raw://f6c2a824d5445d6b2f6a7d5e8cba5a13bfb98f24be4803b07277e651936a6c82",
-				"dweb:/ipfs/QmRWRoZjmSAzCqE3stHDQjEZaKQWkKriN1fL9sjfqHb84S"
+				"bzz-raw://bba022f48ce93e381224266e31983e97a4a68aa84aa95fd481280320bce02778",
+				"dweb:/ipfs/QmWMQNSyCb6tWsQkVU25EouVduUWUE8geTE8m2ZMzBh3P8"
 			]
 		},
 		"https://github.com/aave/aave-v3-core/blob/master/contracts/dependencies/openzeppelin/contracts/IERC20.sol": {
